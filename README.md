@@ -21,6 +21,6 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
-
 1. Complete Ruby on Rails Developer by Brandon Holland
+
+2. First test repo on github
